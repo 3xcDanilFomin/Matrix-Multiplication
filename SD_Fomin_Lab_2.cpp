@@ -168,6 +168,8 @@ int main()
     fillMatrix(matrixC2);
     fillMatrix(matrixC3);
 
+    cout << "Выполнил: Фомин Д.А 090301-ПОВа-о23" << endl;
+    printLine();
     cout << "Сложность алгоритма составляет: " << c << endl;
     printLine();
     cout << "Элементы заполненных матриц: " << endl;
